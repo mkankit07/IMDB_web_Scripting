@@ -1,0 +1,145 @@
+[
+    {
+        "runtime": "2h 5min",
+        "year": "August 26, 1955 (India)",
+        "Country": "India",
+        "language": [
+            "Bengali"
+        ],
+        "movie_name": "Pather Panchali",
+        "genre": "Drama",
+        "director": "Satyajit Ray",
+        "img_url": "https://www.imdb.com//title/tt0048473/mediaviewer/rm2023787521",
+        "bio_title": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work."
+    },
+    {
+        "runtime": "2h 36min",
+        "year": "October 21, 1987 (India)",
+        "Country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "movie_name": "Nayakan",
+        "genre": "Crime",
+        "director": "Mani Ratnam",
+        "img_url": "https://www.imdb.com//title/tt0093603/mediaviewer/rm1040255488",
+        "bio_title": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll."
+    },
+    {
+        "runtime": "2h 40min",
+        "year": "January 14, 2003 (India)",
+        "Country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "movie_name": "Anbe Sivam",
+        "genre": "Adventure",
+        "director": "Sundar C.",
+        "img_url": "https://www.imdb.com//title/tt0367495/mediaviewer/rm3025237504",
+        "bio_title": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate."
+    },
+    {
+        "runtime": "2h 34min",
+        "year": "September 28, 2018 (India)",
+        "Country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "movie_name": "Pariyerum Perumal",
+        "genre": "Drama",
+        "director": "Mari SelvarajPrabunath",
+        "img_url": "https://www.imdb.com//title/tt8176054/mediaviewer/rm2678026496",
+        "bio_title": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this."
+    },
+    {
+        "runtime": "2h 24min",
+        "year": "April 20, 1979 (India)",
+        "Country": "India",
+        "language": [
+            "Hindi"
+        ],
+        "movie_name": "Gol Maal",
+        "genre": "Comedy",
+        "director": "Hrishikesh Mukherjee",
+        "img_url": "https://www.imdb.com//title/tt0079221/mediaviewer/rm3716412160",
+        "bio_title": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious."
+    },
+    {
+        "runtime": "1h 45min",
+        "year": "May 1, 1959 (India)",
+        "Country": "India",
+        "language": [
+            "Bengali"
+        ],
+        "movie_name": "Apur Sansar",
+        "genre": "Drama",
+        "director": "Satyajit Ray",
+        "img_url": "https://www.imdb.com//title/tt0052572/mediaviewer/rm2084100609",
+        "bio_title": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer."
+    },
+    {
+        "runtime": "2h 32min",
+        "year": "February 19, 2021 (India)",
+        "Country": "India",
+        "language": [
+            "Malayalam"
+        ],
+        "movie_name": "Drishyam 2",
+        "genre": "Crime",
+        "director": "Jeethu Joseph",
+        "img_url": "https://www.imdb.com//title/tt12361178/mediaviewer/rm4072658177",
+        "bio_title": "A gripping tale of an investigation and a family which is threatened by it. Will Georgekutty be able to protect his family this time?"
+    },
+    {
+        "runtime": "2h 32min",
+        "year": "September 7, 2018 (India)",
+        "Country": "India",
+        "language": [
+            "Telugu"
+        ],
+        "movie_name": "C/O Kancharapalem",
+        "genre": "Drama",
+        "director": "Venkatesh Maha(as Maha Venkatesh)",
+        "img_url": "https://www.imdb.com//title/tt7391996/mediaviewer/rm3685717761",
+        "bio_title": "Four unconventional love stories set in the town and including the people of Kancherapalem."
+    },
+    {
+        "runtime": "2h 4min",
+        "year": "July 7, 1989 (India)",
+        "Country": "India",
+        "language": [
+            "Malayalam"
+        ],
+        "movie_name": "Kireedam",
+        "genre": "Action",
+        "director": "Sibi Malayil",
+        "img_url": "https://www.imdb.com//title/tt0237376/mediaviewer/rm1299766785",
+        "bio_title": "The life of a young man turns upside down when he intervenes in a dispute in order to rescue his father (a cop) from a ruthless local outlaw."
+    },
+    {
+        "runtime": "2h 49min",
+        "year": "December 24, 1993 (India)",
+        "Country": "India",
+        "language": [
+            "Malayalam"
+        ],
+        "movie_name": "Manichitrathazhu",
+        "genre": "Comedy",
+        "director": "Fazil",
+        "img_url": "https://www.imdb.com//title/tt0214915/mediaviewer/rm676456192",
+        "bio_title": "When a forbidden room in an old bungalow is unbolted, the spirit of a vengeful dancer is unleashed."
+    },
+    {
+        "runtime": "2h 46min",
+        "year": "January 1, 2016 (India)",
+        "Country": "India",
+        "language": [
+            "Marathi"
+        ],
+        "movie_name": "Natsamrat",
+        "genre": "Drama",
+        "director": "Mahesh Manjrekar",
+        "img_url": "https://www.imdb.com//title/tt5311546/mediaviewer/rm3539275520",
+        "bio_title": "After he retires, an aging theatre actor and his wife begin to feel unwanted by their children."
+    }
+]
